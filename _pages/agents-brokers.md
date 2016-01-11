@@ -5,7 +5,8 @@ author: verge.gamotan@gmail.com
 post_date: 2016-01-11 19:37:25
 post_excerpt: ""
 layout: page
-permalink: http://www.accurealtor.com/idx/
+permalink: >
+  http://www.accurealtor.com/agents-brokers/
 published: true
 pyre_slider_position:
   - default
