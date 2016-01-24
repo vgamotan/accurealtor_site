@@ -8,7 +8,7 @@ layout: page
 permalink: http://www.accurealtor.com/
 published: true
 pyre_slider_position:
-  - below
+  - above
 pyre_slider_type:
   - layer
 pyre_slider:
